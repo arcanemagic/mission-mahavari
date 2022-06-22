@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: 7acb76baac8af8a4c805f582842cb38e
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 5f02b89dd3cb2764fad47f980628e248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: 164cc00ed48043e429855e76af47954a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: 118dd7946805e854fbfe11d408f6d3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moustachemat
+    second: {fileID: 2100000, guid: d7ef4801713299c408c158f44583d4b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 1de44a9df15ce3f4685fe7e7bcd81550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: 086a3b4277d876748b649c3f61f2e4a6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Body_Diffuse
+    second: {fileID: 2800000, guid: 73597d36712f4454aa66167e2d9ea781, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Body_Gloss
+    second: {fileID: 2800000, guid: c98a7673ae77a3e4ba3b607ab44f5492, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Body_Normal
+    second: {fileID: 2800000, guid: 2f61f15e97a91f04595ae5c9dcc3edc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Body_Opacity
+    second: {fileID: 2800000, guid: 32bb537f2a6176b439e3b2a948320f18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Body_Specular
+    second: {fileID: 2800000, guid: e168c3a30ef7b8d4b8cc365ec478f3fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Bottom_Diffuse
+    second: {fileID: 2800000, guid: e03a5a0ef51c1484a9beed0f034770f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Bottom_Gloss
+    second: {fileID: 2800000, guid: 9f2d31fb709029b43a95822b0caebfe0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Bottom_Normal
+    second: {fileID: 2800000, guid: 45ff5a5b35fb271499bc85e5aa327e43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Bottom_Opacity
+    second: {fileID: 2800000, guid: 2e95abb637423c9449d83940066a0fed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Bottom_Specular
+    second: {fileID: 2800000, guid: 2ceedf929995df2428d0dd4150cb0a74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Hair_Diffuse
+    second: {fileID: 2800000, guid: f5f1329743703a04daa3756a12733ac1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Hair_Gloss
+    second: {fileID: 2800000, guid: 58ccb2d00c9f8bd418aaa48b911fdef3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Hair_Normal
+    second: {fileID: 2800000, guid: 5d187b05675713742ad3bbc0627172fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Hair_Opacity
+    second: {fileID: 2800000, guid: 715010498b2066d489777b70549cc268, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Hair_Specular
+    second: {fileID: 2800000, guid: 53bb67603a7d84647a794d36ae3b706c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Moustache_Diffuse
+    second: {fileID: 2800000, guid: f2328ef1acb93af4a9e4032566a976a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Moustache_Gloss
+    second: {fileID: 2800000, guid: 4afcd2a4c415b1745b4078095e1eb7f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Moustache_Normal
+    second: {fileID: 2800000, guid: 3f7b5452853ff1b41bf69b5644e70312, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Moustache_Opacity
+    second: {fileID: 2800000, guid: 3bf1efb01fece524fbd74e440a5ecb12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Moustache_Specular
+    second: {fileID: 2800000, guid: 57a47232818564f4cbb8c0f5e2ba4ac3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 664839d7568cd0440b8b795ba62e0b49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Shoes_Gloss
+    second: {fileID: 2800000, guid: ad993fe45da7f7c4181c259d5449ecea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Shoes_Normal
+    second: {fileID: 2800000, guid: 2ee91048ecacbfc41aef154f28f9657b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Shoes_Opacity
+    second: {fileID: 2800000, guid: 7bb20e126b3341042b97184f463b180b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Shoes_Specular
+    second: {fileID: 2800000, guid: 8ef5841c8cadd3a448a41fa84f8dfdcd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Top_Diffuse
+    second: {fileID: 2800000, guid: 2ae6a416b6ee22947812bdbf080fc5f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Top_Gloss
+    second: {fileID: 2800000, guid: c1effdae02f5eeb4b86bcd09f749199f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Top_Normal
+    second: {fileID: 2800000, guid: 3ae2fc51dfa0df240b269ee0f5e960c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Top_Opacity
+    second: {fileID: 2800000, guid: c31b43cf69af02e42aeda540a7121810, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Angry_Guy_Top_Specular
+    second: {fileID: 2800000, guid: 947ca44890d06544b920ebbdd1ca98fa, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

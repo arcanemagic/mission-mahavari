@@ -1,0 +1,729 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9087435460422208944
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc0b4ceaf84e421bbb8af9fbe820df0, type: 3}
+  m_Name: Not start but not attached to anything
+  m_EditorClassIdentifier: 
+  position: {x: -370, y: 40}
+  dynamicConnectionPorts: []
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  CharacterPotrait: {fileID: 0}
+  DialogLine: "eSa eafnj esa D;ksa ug\xC8 tk ldrh\\ "
+  CutsceneTitle: Cutscene_1
+  startOfCutscene: 1
+  attachedTo: {fileID: 0}
+  characterID: 1
+  expressions:
+  - None
+  expressionID: 0
+  choices: []
+  questionID: Type your question ID here
+  attachedToChoice: {fileID: 0}
+  lineInTxt: 8
+  saves: []
+  attachedToSave: {fileID: 0}
+  toWhereOUT: {fileID: -7416203462296607362}
+  fromWhereIN: {fileID: 5973165068490870723}
+--- !u!114 &-8976431218482570152
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc0b4ceaf84e421bbb8af9fbe820df0, type: 3}
+  m_Name: Not start but not attached to anything
+  m_EditorClassIdentifier: 
+  position: {x: 40, y: 310}
+  dynamicConnectionPorts: []
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  CharacterPotrait: {fileID: 21300000, guid: cf5731bcfd2a1cc47bae6733cdc47309, type: 3}
+  DialogLine: lgh D;k gS] ;g tkuus ds fy, gesa lnk mRlqd jguk pkfg, vkSj loky iwNus
+    pkfg,A
+  CutsceneTitle: Cutscene_2
+  startOfCutscene: 0
+  attachedTo: {fileID: 0}
+  characterID: 2
+  expressions:
+  - None
+  expressionID: 0
+  choices: []
+  questionID: Type your question ID here
+  attachedToChoice: {fileID: 0}
+  lineInTxt: 14
+  saves: []
+  attachedToSave: {fileID: 0}
+  toWhereOUT: {fileID: -7461243041697534753}
+  fromWhereIN: {fileID: -6928980952591684683}
+--- !u!114 &-8434576720632647774
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017e2c7fd038ecb46b317c1e003f31dc, type: 3}
+  m_Name: To Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -6482613632664398519}
+  direction: 2
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections: []
+  side: 2
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &-7944587851406050730
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc0b4ceaf84e421bbb8af9fbe820df0, type: 3}
+  m_Name: Not start but not attached to anything
+  m_EditorClassIdentifier: 
+  position: {x: 420, y: -220}
+  dynamicConnectionPorts: []
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  CharacterPotrait: {fileID: 0}
+  DialogLine: "ekgokjh ds fnuksa esa rqEgkjs \xC5ij \xE7sr vkRekvksa dk lk;k jgrk
+    gSA"
+  CutsceneTitle: Cutscene_0
+  startOfCutscene: 0
+  attachedTo: {fileID: 0}
+  characterID: 1
+  expressions:
+  - None
+  expressionID: 0
+  choices: []
+  questionID: Type your question ID here
+  attachedToChoice: {fileID: 0}
+  lineInTxt: 4
+  saves: []
+  attachedToSave: {fileID: 0}
+  toWhereOUT: {fileID: -506487238186223807}
+  fromWhereIN: {fileID: -2053077107527057972}
+--- !u!114 &-7461243041697534753
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017e2c7fd038ecb46b317c1e003f31dc, type: 3}
+  m_Name: To Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -8976431218482570152}
+  direction: 2
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections: []
+  side: 2
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &-7416203462296607362
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017e2c7fd038ecb46b317c1e003f31dc, type: 3}
+  m_Name: To Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -9087435460422208944}
+  direction: 2
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: 1108615035469593464}
+  side: 2
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &-6928980952591684683
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d338988a4691f43b8c0764bd85cf70, type: 3}
+  m_Name: From Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -8976431218482570152}
+  direction: 1
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: 9075529782454921683}
+  side: 4
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &-6482613632664398519
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc0b4ceaf84e421bbb8af9fbe820df0, type: 3}
+  m_Name: Not start but not attached to anything
+  m_EditorClassIdentifier: 
+  position: {x: 830, y: -220}
+  dynamicConnectionPorts: []
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  CharacterPotrait: {fileID: 21300000, guid: cf5731bcfd2a1cc47bae6733cdc47309, type: 3}
+  DialogLine: "ug\xC8! ,d lkekekgokjh U; ?kVuk gS vkSj blls Hkwr \xE7sr dk dks\xC3
+    ysuk nsuk ug\xC8 gSA eSa eafnj tk jgh gw\xA1A\r"
+  CutsceneTitle: Cutscene_0
+  startOfCutscene: 0
+  attachedTo: {fileID: 0}
+  characterID: 2
+  expressions:
+  - None
+  expressionID: 0
+  choices: []
+  questionID: Type your question ID here
+  attachedToChoice: {fileID: 0}
+  lineInTxt: 5
+  saves: []
+  attachedToSave: {fileID: 0}
+  toWhereOUT: {fileID: -8434576720632647774}
+  fromWhereIN: {fileID: -5331729196199560072}
+--- !u!114 &-5657321769914989177
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc0b4ceaf84e421bbb8af9fbe820df0, type: 3}
+  m_Name: Not start but not attached to anything
+  m_EditorClassIdentifier: 
+  position: {x: 30, y: -227}
+  dynamicConnectionPorts: []
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  CharacterPotrait: {fileID: 21300000, guid: cf5731bcfd2a1cc47bae6733cdc47309, type: 3}
+  DialogLine: D;ksa\
+  CutsceneTitle: Cutscene_0
+  startOfCutscene: 0
+  attachedTo: {fileID: 0}
+  characterID: 2
+  expressions:
+  - None
+  expressionID: 0
+  choices: []
+  questionID: Type your question ID here
+  attachedToChoice: {fileID: 0}
+  lineInTxt: 3
+  saves: []
+  attachedToSave: {fileID: 0}
+  toWhereOUT: {fileID: 4592994082044026188}
+  fromWhereIN: {fileID: 539695150272486240}
+--- !u!114 &-5331729196199560072
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d338988a4691f43b8c0764bd85cf70, type: 3}
+  m_Name: From Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -6482613632664398519}
+  direction: 1
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: -506487238186223807}
+  side: 4
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &-4633914286146122044
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017e2c7fd038ecb46b317c1e003f31dc, type: 3}
+  m_Name: To Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -1934893020520545467}
+  direction: 2
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: 159458478652196147}
+  side: 2
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &-2053077107527057972
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d338988a4691f43b8c0764bd85cf70, type: 3}
+  m_Name: From Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -7944587851406050730}
+  direction: 1
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: 4592994082044026188}
+  side: 4
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &-1934893020520545467
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc0b4ceaf84e421bbb8af9fbe820df0, type: 3}
+  m_Name: Not start but not attached to anything
+  m_EditorClassIdentifier: 
+  position: {x: 40, y: 40}
+  dynamicConnectionPorts: []
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  CharacterPotrait: {fileID: 21300000, guid: cf5731bcfd2a1cc47bae6733cdc47309, type: 3}
+  DialogLine: ekgokjh ds fnuksa esa rqe v'kq) gks!
+  CutsceneTitle: Cutscene_1
+  startOfCutscene: 0
+  attachedTo: {fileID: 0}
+  characterID: 2
+  expressions:
+  - None
+  expressionID: 0
+  choices: []
+  questionID: Type your question ID here
+  attachedToChoice: {fileID: 0}
+  lineInTxt: 9
+  saves: []
+  attachedToSave: {fileID: 0}
+  toWhereOUT: {fileID: -4633914286146122044}
+  fromWhereIN: {fileID: 1108615035469593464}
+--- !u!114 &-1434400549082956453
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc0b4ceaf84e421bbb8af9fbe820df0, type: 3}
+  m_Name: Not start but not attached to anything
+  m_EditorClassIdentifier: 
+  position: {x: 450, y: 40}
+  dynamicConnectionPorts: []
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  CharacterPotrait: {fileID: 0}
+  DialogLine: "ug\xC8 eSa v'kq) ug\xC8 gw\xA1! eSa fQj ls dgrh gw\xA1\u2026- ekgokjh
+    ,d lkekU; ?kVuk gSA"
+  CutsceneTitle: Cutscene_1
+  startOfCutscene: 0
+  attachedTo: {fileID: 0}
+  characterID: 1
+  expressions:
+  - None
+  expressionID: 0
+  choices: []
+  questionID: Type your question ID here
+  attachedToChoice: {fileID: 0}
+  lineInTxt: 10
+  saves: []
+  attachedToSave: {fileID: 0}
+  toWhereOUT: {fileID: -693792547762751301}
+  fromWhereIN: {fileID: 159458478652196147}
+--- !u!114 &-693792547762751301
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017e2c7fd038ecb46b317c1e003f31dc, type: 3}
+  m_Name: To Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -1434400549082956453}
+  direction: 2
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections: []
+  side: 2
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &-506487238186223807
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017e2c7fd038ecb46b317c1e003f31dc, type: 3}
+  m_Name: To Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -7944587851406050730}
+  direction: 2
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: -5331729196199560072}
+  side: 2
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &-463353451129478951
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d338988a4691f43b8c0764bd85cf70, type: 3}
+  m_Name: From Where
+  m_EditorClassIdentifier: 
+  body: {fileID: 4902865010808443023}
+  direction: 1
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections: []
+  side: 4
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d66198f05a38b4c63bc0337fedf5bb9e, type: 3}
+  m_Name: LastSession
+  m_EditorClassIdentifier: 
+  editorStates:
+  - {fileID: 2609748509795946524}
+  saveName: New RPGTalk
+  savePath: 
+  livesInScene: 0
+  nodes:
+  - {fileID: 6457603939914997520}
+  - {fileID: -5657321769914989177}
+  - {fileID: -7944587851406050730}
+  - {fileID: -6482613632664398519}
+  - {fileID: -9087435460422208944}
+  - {fileID: -1934893020520545467}
+  - {fileID: -1434400549082956453}
+  - {fileID: 4902865010808443023}
+  - {fileID: -8976431218482570152}
+  groups: []
+  Name: RPGTalk
+  characters:
+  - {fileID: 11400000, guid: d8a9cbd8cdfd76d43961eab82a637270, type: 2}
+  - {fileID: 11400000, guid: ce78e6f8b45f09347bf588d435cdb699, type: 2}
+  - {fileID: 11400000, guid: 0c2a6aac221f6a74e8d34c73b1031b23, type: 2}
+  - {fileID: 11400000, guid: 70743892abc1144a8be0bd4ca5efa3e9, type: 2}
+  - {fileID: 11400000, guid: f01cef5fc18f942b594f6920a7490b3a, type: 2}
+  - {fileID: 11400000, guid: 209c7f70d52014f42a096bed78e21a52, type: 2}
+  charactersNames:
+  - None
+  - lekt
+  - "\xD8wlsMj"
+  - 
+  - FunnyGuy
+  - Girl
+  - '*PlayerName*'
+  expressions: []
+--- !u!114 &159458478652196147
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d338988a4691f43b8c0764bd85cf70, type: 3}
+  m_Name: From Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -1434400549082956453}
+  direction: 1
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: -4633914286146122044}
+  side: 4
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &539695150272486240
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d338988a4691f43b8c0764bd85cf70, type: 3}
+  m_Name: From Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -5657321769914989177}
+  direction: 1
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: 2782565908353451011}
+  side: 4
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &866560029382930487
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d338988a4691f43b8c0764bd85cf70, type: 3}
+  m_Name: From Where
+  m_EditorClassIdentifier: 
+  body: {fileID: 6457603939914997520}
+  direction: 1
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections: []
+  side: 4
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &1108615035469593464
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d338988a4691f43b8c0764bd85cf70, type: 3}
+  m_Name: From Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -1934893020520545467}
+  direction: 1
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: -7416203462296607362}
+  side: 4
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &2609748509795946524
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6ab6487237ff124ea4c2aa5de9ce3fb, type: 3}
+  m_Name: MainEditorState
+  m_EditorClassIdentifier: 
+  canvas: {fileID: 0}
+  parentEditor: {fileID: 0}
+  selectedNode: {fileID: -8976431218482570152}
+  panOffset: {x: -485.19998, y: -26.200008}
+  zoom: 2
+--- !u!114 &2782565908353451011
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017e2c7fd038ecb46b317c1e003f31dc, type: 3}
+  m_Name: To Where
+  m_EditorClassIdentifier: 
+  body: {fileID: 6457603939914997520}
+  direction: 2
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: 539695150272486240}
+  side: 2
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &4592994082044026188
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017e2c7fd038ecb46b317c1e003f31dc, type: 3}
+  m_Name: To Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -5657321769914989177}
+  direction: 2
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: -2053077107527057972}
+  side: 2
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &4902865010808443023
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc0b4ceaf84e421bbb8af9fbe820df0, type: 3}
+  m_Name: Not start but not attached to anything
+  m_EditorClassIdentifier: 
+  position: {x: -370, y: 310}
+  dynamicConnectionPorts: []
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  CharacterPotrait: {fileID: 21300000, guid: cf5731bcfd2a1cc47bae6733cdc47309, type: 3}
+  DialogLine: "vc eq>s irk pyk fd yksx tks dgrs gSa] t+:jh ug\xC8 fd eSa mu lc ckrksa
+    dks mlh :i esa viuk\xC5\xA1A"
+  CutsceneTitle: Cutscene_2
+  startOfCutscene: 1
+  attachedTo: {fileID: 0}
+  characterID: 2
+  expressions:
+  - None
+  expressionID: 0
+  choices: []
+  questionID: Type your question ID here
+  attachedToChoice: {fileID: 0}
+  lineInTxt: 13
+  saves: []
+  attachedToSave: {fileID: 0}
+  toWhereOUT: {fileID: 9075529782454921683}
+  fromWhereIN: {fileID: -463353451129478951}
+--- !u!114 &5973165068490870723
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d338988a4691f43b8c0764bd85cf70, type: 3}
+  m_Name: From Where
+  m_EditorClassIdentifier: 
+  body: {fileID: -9087435460422208944}
+  direction: 1
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections: []
+  side: 4
+  sidePosition: 0
+  sideOffset: 0
+--- !u!114 &6457603939914997520
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc0b4ceaf84e421bbb8af9fbe820df0, type: 3}
+  m_Name: Not start but not attached to anything
+  m_EditorClassIdentifier: 
+  position: {x: -370, y: -230}
+  dynamicConnectionPorts: []
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  CharacterPotrait: {fileID: 0}
+  DialogLine: gels nwj jgksA
+  CutsceneTitle: Cutscene_0
+  startOfCutscene: 1
+  attachedTo: {fileID: 0}
+  characterID: 1
+  expressions:
+  - None
+  expressionID: 0
+  choices: []
+  questionID: Type your question ID here
+  attachedToChoice: {fileID: 0}
+  lineInTxt: 2
+  saves: []
+  attachedToSave: {fileID: 0}
+  toWhereOUT: {fileID: 2782565908353451011}
+  fromWhereIN: {fileID: 866560029382930487}
+--- !u!114 &9075529782454921683
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017e2c7fd038ecb46b317c1e003f31dc, type: 3}
+  m_Name: To Where
+  m_EditorClassIdentifier: 
+  body: {fileID: 4902865010808443023}
+  direction: 2
+  maxConnectionCount: 1
+  styleID: RPGTalkForward
+  _connections:
+  - {fileID: -6928980952591684683}
+  side: 2
+  sidePosition: 0
+  sideOffset: 0

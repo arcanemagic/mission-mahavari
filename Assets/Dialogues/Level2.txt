@@ -1,0 +1,35 @@
+[title=Cutscene_0_begin]
+ØwlsMj:[dub=0]vkt esjk vpkj [kkus dk cgqr eu gks jgk gSA
+ØwlsMj:[dub=1]vjs gk¡--- ekgokjh ds fnuksa esa jlksbZ esa tkuk euk gSA
+ØwlsMj:[dub=2]ij D;ksa\
+:[question=0][dub=3]D;w¡fd bu nhuksa esa rqe v'kq) gksA
+[choice]vPNk Bhd gSA [newtalk start=FollowUp_Cutscene_0_Choice_0_begin break=FollowUp_Cutscene_0_Choice_0_end]
+[choice]ugha eSa v'kq) ugha gw¡A [newtalk start=FollowUp_Cutscene_0_Choice_1_begin break=FollowUp_Cutscene_0_Choice_1_end]
+[title=Cutscene_0_end]
+
+[title=FollowUp_Cutscene_0_Choice_0_begin]
+ØwlsMj:[dub=4]ekgokjh ds fnuksa esa vpkj ;k dksbZ Hkh [kkuk Nw ysus ls [kjkc ugh gksrkA
+[title=FollowUp_Cutscene_0_Choice_0_end]
+
+[title=FollowUp_Cutscene_0_Choice_1_begin]
+ØwlsMj:[dub=5]vpkj fdruk Lokfn"V gS! vc irk pyk fd ekgokjh ds fnuksa esa gekjs Nw ysus ls [kkuk [kjkc ugha gksrk gSA
+[title=FollowUp_Cutscene_0_Choice_1_end]
+
+[title=Cutscene_1_begin]
+ØwlsMj:[dub=6]esjs flj esa cgqr [kqtyh gks jgh gSA pyks cky /kksrh gw¡A
+ØwlsMj:[dub=7]vjsZ gk¡--- ekgokjh ds fnuksa esa cky ugha /kks ldrhA
+ØwlsMj:[dub=8]ij D;ksa\
+:[question=1][dub=9]D;w¡fd rqEgkjs ugkus ls ikuh çnwf"kr gks tk;sxkA
+[choice]vPNk Bhd gSA [newtalk start=FollowUp_Cutscene_1_Choice_0_begin break=FollowUp_Cutscene_1_Choice_0_end]
+[choice]ugha! esjs ugkus ls ikuh çnwf"kr ugha gksxkA [newtalk start=FollowUp_Cutscene_1_Choice_1_begin break=FollowUp_Cutscene_1_Choice_1_end]
+[title=Cutscene_1_end]
+
+[title=FollowUp_Cutscene_1_Choice_0_begin]
+ØwlsMj:[dub=10]ekgokjh ds fnuksa esa ugkus ls ikuh çnwf"kr ugha gksrk gSA
+[title=FollowUp_Cutscene_1_Choice_0_end]
+
+[title=FollowUp_Cutscene_1_Choice_1_begin]
+ØwlsMj:[dub=11]bl lkcqu ls eSa vPNs ls ckyksa dks lkQ d:¡xhA ugkus ls esjh lsgr Hkh Bhd jgsxhA
+[title=FollowUp_Cutscene_1_Choice_1_end]
+
+:[dub=12]vkxs tkus ds fy, uhys }kj fd vksj tk,¡A

@@ -1,0 +1,25 @@
+[title=Cutscene_0_begin]
+lekt:[dub=0]gels nwj jgksA
+ØwlsMj:[dub=1]D;ksa\
+lekt:[dub=2]ekgokjh ds fnuksa esa rqEgkjs Åij Hkwr&çsr dk lk;k jgrk gSA
+ØwlsMj:[dub=3]ugh! ekgokjh ,d lkekU; ?kVuk gS vkSj bLls Hkwr&çsr dk dksbZ ysuk nsuk ugh gSA eSa eafnj tk jgh gw¡A
+lekt:[dub=4]rqe eafnj esa ugh tk ldrh gksA
+[title=Cutscene_0_end]
+
+[title=Cutscene_1_begin]
+ØwlsMj:[dub=5]eSa eafnj esa D;ksa ugÈ tk ldrh\ 
+lekt:[dub=6]ekgokjh ds fnuksa esa rqe v'kq) gks!
+ØwlsMj:[dub=7]ugh eSa v'kq) ugha gw¡! eSa fQj ls dgrh gw¡--- ekgokjh ,d lkekU; ?kVuk gSA
+[title=Cutscene_1_end]
+
+[title=RewardStart]
+ØwlsMj:[dub=8]vc eq>s irk pyk fd yksx tks dgrs gSa] t:jh ugha fd eSa mu lc ckrksa dks mlh :i esa viukÅ¡A
+ØwlsMj:[dub=9]lgh D;k gS] ;g tkuus ds fy, gesa lnk mRlqd jguk pkfg, vkSj loky iwNus pkfg,A
+[title=RewardEnd]
+
+[title=DoorStart]
+:[dub=10]vkidk lQj iwjk gqvkA
+:[dub=11]vk'kk gS vkidks ekgokjh ls tqM+h tks iqjkuh :f<+oknh ckrsa gSa] muds ckjs esa ,d u;k –f"Vdks.k feyk gksxkA
+:[dub=12]vkSj vkidks ekgokjh ls tqM+h leL;kvksa dk lkeuk djus ds dbZ lk/kuksa ds ckjs esa tkudkjh feyh gksxhA
+:[dub=13][ksy ls fudyus ds fy, uhys }kj fd vksj tk,¡A
+[title=DoorEnd]
